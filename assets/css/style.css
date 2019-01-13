@@ -1,0 +1,82 @@
+body {
+    width: 100%;
+    background-image: url(../images/crystal\ collector.jpg)
+}
+
+.crystalbox { 
+    text-align: center;
+    width : 100%;
+    background-color: black;
+    margin-bottom: 5px;
+}
+
+h1 {
+    font-size: 48px;
+    border: solid 5px rgb(0, 47, 255);
+    background: rgb(185, 183, 183);
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right:10%;
+    padding: 15px;
+    font-family: 'Charm', cursive;
+}
+
+p {
+    font-size: 24px;
+    font-family: 'Charm', cursive;
+}
+
+h3 {
+    font-family: 'Charm', cursive;
+    font-size: 24px;
+    padding-top: 10px;
+}
+
+
+img {
+    margin: 10px;
+}
+
+
+.box {
+    background-color: rgb(185, 183, 183);
+    padding: 15px;
+    position: relative;
+    border-top: solid rgb(0, 47, 255) 2px;
+    border-bottom: solid rgb(0, 47, 255) 2px;
+    margin-bottom: 5px;
+    font-family: 'Charm', cursive;
+    font-size: 40px;
+    text-align: center;
+}
+.box1 {
+    padding: 15px;
+    position: relative;
+    border-top: solid rgb(0, 47, 255) 2px;
+    border-bottom: solid rgb(0, 47, 255) 2px;
+    margin-bottom: 10px;
+    font-family: 'Charm', cursive;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(185, 183, 183);
+}
+
+span {
+    border: solid rgb(0, 47, 255) 2px;
+    padding: 3px;
+    background-color: whitesmoke; 
+    font-size: 24px;
+}
+
+
+#instruction-box {
+    background-color: rgb(185, 183, 183);
+    margin-top: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+    border: solid 3px rgb(0, 47, 255);
+}
