@@ -1,4 +1,4 @@
-# unit-4-game
+# Crystal Collector
 This is a Crystal Collector Game made using jQuery.
 The goal of the game is to match the target number.
 To start the game, a random target number is provided.
