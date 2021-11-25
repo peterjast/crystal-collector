@@ -7,4 +7,4 @@ When you click any crystal, the hidden value is then added to your total score.
 If your total score exceeds the target number, you lose.
 If your total score matches the target number, you win!
 
-https://peterjast.github.io/unit-4-game/
+https://peterjast.github.io/crystal-collector/
